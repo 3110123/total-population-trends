@@ -1,0 +1,12 @@
+.prefecture-population-trend-page {
+  display: flex;
+  flex-direction: column;
+  row-gap: 50px;
+}
+
+.prefecture-list {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 40px;
+  row-gap: 5px;
+}
